@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">BaseApplication</string>
+
+    <!--Fonts-->
+    <string name="font_helvetica_bold">HelveticaNeue_Bold.otf</string>
+    <string name="font_helvetica_neue">HelveticaNeue.ttf</string>
+    <string name="font_helvetica_medium">helveticaNeue_Medium.ttf</string>
+    <string name="font_helvetica_thin">HelveticaNeue_Thin.otf</string>
+    <string name="font_helvetica_light">HelveticaNeue_Light.ttf</string>
+    <string name="font_helvetica_regular">HelveticaNeue_Roman.otf</string>
+
+    <!--Permission Message-->
+    <string name="permission_enable_path">Enable permissions from\nSettings > Apps > DAYDATE > Permissions</string>
+    <string name="permission_location_rationale">Location permission is needed to access location.</string>
+    <string name="permission_location_denied">Location permission denied. Please consider granting it in order to access location.</string>
+    <string name="permission_storage_rationale">Storage permission is needed to access gallery.</string>
+    <string name="permission_storage_denied">Storage permission denied. Please consider granting it in order to access gallery.</string>
+    <string name="permission_camera_rationale">Camera permission is needed to access device camera.</string>
+    <string name="permission_camera_denied">Camera permission denied. Please consider granting it in order to access device camera.</string>
+
+    <!--ToastUtil Messages-->
+    <string name="toast_something_wrong">Something went wrong please try again..</string>
+    <string name="toast_try_after_sometimes">Something went wrong please try after sometimes..</string>
+    <string name="toast_no_internet">No Internet connection available</string>
+    <string name="toast_time_out">Please try again ,There is network error</string>
+    <string name="toast_no_data">No data found</string>
+    <string name="toast_no_name">User name is required</string>
+    <string name="toast_no_email">Email is required</string>
+    <string name="toast_no_contact">Contact is required</string>
+    <string name="toast_no_village_name">Village name is required</string>
+    <string name="toast_no_house_nr">House Nr is required</string>
+    <string name="toast_no_password">Password is required</string>
+    <string name="toast_no_confirm_password">Confirm password is required</string>
+    <string name="toast_no_new_password">New password is required</string>
+    <string name="toast_contact_wrong">Contact is invalid</string>
+    <string name="toast_email_format_wrong">Email is invalid</string>
+    <string name="toast_password_mismatch">Password is not matched</string>
+    <string name="toast_password_same">Old password and New Password should not be same</string>
+    <string name="toast_no_title">Title is required</string>
+    <string name="toast_no_description">Description is required</string>
+    <string name="toast_no_image_selected">Image is required</string>
+    <string name="toast_no_latitude_longitude">Latitude/Longitude not null\nMay be location service is not active</string>
+    <string name="toast_no_category_selected">Please select category</string>
+    <string name="toast_no_memory_card">Please insert memory card to take pictures and make sure it is writable</string>
+    <string name="toast_user_not_authorized">User unauthorized</string>
+
+    <!--Rangbar labels-->
+    <string name="demo_min_label">Min</string>
+    <string name="demo_max_label">Max</string>
+
+    <!--Common Utils-->
+    <string name="gps_message">GPS is disabled. Enable it to get location.</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="copy_right">Copyright © 2016 VH Maintenance. All rights reserved.</string>
+</resources>

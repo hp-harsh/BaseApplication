@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

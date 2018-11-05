@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/anim/abc_slide_out_top.xml"
+    }
+]

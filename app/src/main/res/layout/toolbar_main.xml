@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--
+    Don't forget to change theme in manifest class
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+    -->
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+        <hp.harsh.baseapplication.custom.ButtonWithToolTip
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Toolbar Title"
+            android:layout_gravity="left"
+            android:contentDescription="View Title"
+            android:id="@+id/toolbar_title"
+            style="@style/Widget.AppCompat.ActionButton"/>
+
+        <hp.harsh.baseapplication.custom.ImageButtonWithToolTip
+            android:id="@+id/btn_search"
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="?attr/actionBarSize"
+            android:contentDescription="Call Incoming"
+            android:src="@android:drawable/sym_call_incoming"
+            style="@style/Widget.AppCompat.ActionButton" />
+
+    </android.support.v7.widget.Toolbar>
+
+</LinearLayout>

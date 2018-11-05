@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/harsh/Harsh Work Space/Harsh_Android_Studio_Projects/BaseApplication/easycamera/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/harsh/.android/build-cache/aa161204b29ce7d8d6ef89e4cdd247ea608907bb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
